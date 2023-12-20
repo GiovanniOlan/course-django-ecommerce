@@ -1,0 +1,12 @@
+SECRET_KEY="j89023r43i9023902ri32r90i32i903ir90290i^&*#(&@(ksdfnml0(#@*(*(@)"
+
+DEBUG=True
+
+ALLOWED_HOSTS=*,host1.
+
+# Database
+DB_NAME=postgres
+DB_USER=postgres
+DB_PASSWORD=postgres
+DB_HOST=db
+DB_PORT=5432
